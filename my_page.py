@@ -16,3 +16,8 @@ st.write(my_favor)
 
 if st.button(f"{my_favor} 보러가기"): # true or false 의 상태로 남게 됨
      st.success(f"{my_favor} 기다리는 중 ❤️❤️❤️", icon="💕")
+
+# 히히 일부러 수정 사항 만들기!
+print("히히 일부러 수정사항 만들기")
+# 수정사항 
+print("깃헙아 못 잡니?")
